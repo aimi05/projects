@@ -3,11 +3,11 @@
 	include("functions.php");*/
 
 	$user_data = check_login($con);
-  $Servername = "localhost";
-  $Username = "root";
-  $Password = "root";
-  $DBNAME = "media";
-  $port = "3306";
+  $Servername = "";
+  $Username = "";
+  $Password = "";
+  $DBNAME = "";
+  $port = "";
   $con = mysqli_connect($Servername, $Username, $Password, $DBNAME,$port);
     if ($con->connect_error) {
       exit("Fehler bei der verbindung");
