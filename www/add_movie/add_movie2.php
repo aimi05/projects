@@ -2,7 +2,7 @@
    if(isset($_POST["n"]))
    {
       /* Falls Name und Passwort korrekt */
-      if($_POST["n"] == "Aiman" && $_POST["p"] == "mimo5215aim")
+      if($_POST["n"] == "" && $_POST["p"] == "")
       {
          $_SESSION["n"] = $_POST["n"];
       }
