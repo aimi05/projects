@@ -8,11 +8,11 @@ $dbname = "";
 $dbport = "";
 //$dbport = "";
 */
-$dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "root";
-$dbname = "aiman";
-$dbport = "3306";
+$dbhost = "";
+$dbuser = "";
+$dbpass = "";
+$dbname = "";
+$dbport = "";
 $con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname,$dbport);
 if(!$con)
 {
