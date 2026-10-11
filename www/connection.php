@@ -1,10 +1,10 @@
 <?php
 /*
-$dbhost = "localhost";
-$dbuser = "aimanmedia";
-$dbpass = "mimo5215aim";
-$dbname = "aimanmedia";
-$dbport = "8889";
+$dbhost = "";
+$dbuser = "";
+$dbpass = "";
+$dbname = "";
+$dbport = "";
 
 if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname,$dbport))
 {
