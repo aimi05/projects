@@ -29,7 +29,7 @@
               <h2>Passwort zurücksetzen</h2>
                 <?php
                 if(isset($_POST["submit"])){
-                  mail("aiman.borg@gmx.de", "Jemand möchte sein Passwort zurücksetzen", "Benutzername: ".$_POST["n"]." Email: ".$_POST["e"]. "  Neues Passwort: ".$_POST["p"]);
+                  mail("", "Jemand möchte sein Passwort zurücksetzen", "Benutzername: ".$_POST["n"]." Email: ".$_POST["e"]. "  Neues Passwort: ".$_POST["p"]);
                   ?>
                   <h1 style="color: rgba(255, 255, 255, 0.6); size: 1.1em;">Das Passwort wird in den nächsten 24h zurückgesetzt !</h1>
                   <?php
