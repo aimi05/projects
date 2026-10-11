@@ -38,7 +38,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
     <div class="animation">
   		<div class="allow">
         <img src="close.png" onclick="toggleconnection();" >
-				<center><h1>Um die Sperre aufzuheben, müssen sie den Zugriff der folgenden Website <a href="https://aiman.mywire.org:54639">Erlauben</a> .</h1></center>
+				<center><h1>Um die Sperre aufzuheben, müssen sie den Zugriff der folgenden Website <a href="">Erlauben</a> .</h1></center>
       </div>
 
       <?php include_once "nav.php"; ?>
@@ -80,7 +80,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="index3.php">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.212.125:54705/nas/filelink.lua?id=ba1383444aac5863">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Endame 2019</strong>
@@ -93,7 +93,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="#">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.212.125:54705/nas/filelink.lua?id=ba1383444aac5863">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Ocean’s Eleven 2001</strong>
@@ -106,7 +106,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="#">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.147.205:54705/nas/filelink.lua?id=d2bc9e0d9fe9cd07">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Infinity War 2018</strong>
@@ -119,7 +119,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="#">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.147.205:54705/nas/filelink.lua?id=394e48f030521068">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Kingsman 2 2017</strong>
@@ -132,7 +132,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="#">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.147.205:54705/nas/filelink.lua?id=93a48925c5a419d6">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Ocean’s 8 2018</strong>
@@ -145,7 +145,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="#">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.147.205:54705/nas/filelink.lua?id=cba3916b79003178">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Harry Potter 4 2005</strong>
@@ -158,7 +158,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="#">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.147.205:54705/nas/filelink.lua?id=f9662ceab21a1793">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Fluch der Karibik 1</strong>
@@ -171,7 +171,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="index5.php">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.147.205:54705/nas/filelink.lua?id=0857729f6237bbdf">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Ocean's Twelve 2004</strong>
@@ -183,7 +183,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
             <a href="#">
             <div class="latest-box">
               <div class="latest-b-img">
-                <img src="https://91.65.147.205:54705/nas/filelink.lua?id=da2d40617ba36a54">
+                <img src="">
               </div>
               <div class="latest-b-text">
                 <strong>Harry Potter 5 2007</strong>
@@ -199,17 +199,17 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
         <ul id="autoWidth3" class="cs-hidden">
           <li class="item-a">
             <div class="showcase-box">
-              <a href="#"><img src="https://91.65.212.125:54705/nas/filelink.lua?id=b8a7168047e56abf"></a>
+              <a href="#"><img src=""></a>
             </div>
           </li>
           <li class="item-b">
             <div class="showcase-box">
-              <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=6e8331b5da412afb"></a>
+              <a href="#"><img src=""></a>
             </div>
           </li>
           <li class="item-c">
             <div class="showcase-box">
-              <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=00819444bb83e499"></a>
+              <a href="#"><img src=""></a>
             </div>
           </li>
           <li class="item-d">
@@ -230,61 +230,61 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
       <section id="movie-list">
         <div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=15aaf8e026c6d19f"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
         <div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=93a48925c5a419d6"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
         <div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=f9662ceab21a1793"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
         <div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=394e48f030521068"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
         <div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=d2bc9e0d9fe9cd07"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
         <div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=470ca6ac9e9edde8"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
         <div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=9d86088534bc7d07"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
         <div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=630f630322ee280f"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
   			<div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=630f630322ee280f"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
   			<div class="movie-box">
           <div class="movie-img">
-            <a href="#"><img src="https://91.65.147.205:54705/nas/filelink.lua?id=630f630322ee280f"></a>
+            <a href="#"><img src=""></a>
           </div>
           <a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p></a>
         </div>
