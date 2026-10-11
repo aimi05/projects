@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="nav.css">
 </head>
 <nav>
-  <a href="index.php" class="logo"><img src="https://aiman.mywire.org:54639/nas/filelink.lua?id=c4a0c43cc88678e3"></a>
+  <a href="index.php" class="logo"><img src=""></a>
   <input type="checkbox" class="menu-btn" id="menu-btn">
   <label class="menu-icon" for="menu-btn">
     <span class="nav-icon"></span>
