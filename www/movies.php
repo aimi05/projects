@@ -84,7 +84,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="index3.php">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=15aaf8e026c6d19f">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Endame 2019</strong>
@@ -97,7 +97,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="#">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=3de6f99fd21f9172">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Ocean’s Eleven 2001</strong>
@@ -110,7 +110,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="#">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=d2bc9e0d9fe9cd07">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Infinity War 2018</strong>
@@ -123,7 +123,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="#">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=394e48f030521068">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Kingsman 2 2017</strong>
@@ -136,7 +136,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="#">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=93a48925c5a419d6">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Ocean’s 8 2018</strong>
@@ -149,7 +149,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="#">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=cba3916b79003178">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Harry Potter 4 2005</strong>
@@ -162,7 +162,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="#">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=f9662ceab21a1793">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Fluch der Karibik 1</strong>
@@ -175,7 +175,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="index5.php">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=0857729f6237bbdf">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Ocean's Twelve 2004</strong>
@@ -187,7 +187,7 @@ $sql6 = "SELECT * FROM `movie` HAVING `media_id` = $film - 4";$res6 = $con->quer
           <a href="#">
           <div class="latest-box">
             <div class="latest-b-img">
-              <img src="https://91.65.147.205:54705/nas/filelink.lua?id=da2d40617ba36a54">
+              <img src="">
             </div>
             <div class="latest-b-text">
               <strong>Harry Potter 5 2007</strong>
