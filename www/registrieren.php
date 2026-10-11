@@ -54,8 +54,8 @@
 									$query = "insert into users (user_id,user_name,password,email,userlook,mode,auto,birth) values ('$user_id','$user_name','$password','$email',1,'$mode','$auto','$birth')";
 
 									mysqli_query($con, $query);
-									mail($email,"Willkommen bei aiman media",$user_name. " ihr Passwort lauetet: ".$password. " Bei Fehler bitte melden sie sich bei Aiman Borghoul (aiman.borg@gmx.de)");
-									mail("aiman.borg@gmx.de","Jemand möchte sich registrieren",$user_name. " möchte sich registieren mit dem Passwort: ".$password. " Bei Fehler bitte melden sie sich bei Aiman Borghoul (aiman.borg@gmx.de)");
+									mail($email,"Willkommen bei aiman media",$user_name. " ihr Passwort lauetet: ".$password. " Bei Fehler bitte melden sie sich bei Aiman Borghoul ()");
+									mail("","Jemand möchte sich registrieren",$user_name. " möchte sich registieren mit dem Passwort: ".$password. " Bei Fehler bitte melden sie sich bei Aiman Borghoul ()");
 
 									echo '<p>Sie könne sich in den nächsten 24h <a href="login.php">anmelden</a> !</p>';
 									die;
